@@ -7,7 +7,7 @@
 #define TWO_POINTS 2
 #define ONE_POINT 1
 
-
+//test for git
 static int CountLegalGamesInTournament(Tournament tournament);
 
 struct chess_system_t {
